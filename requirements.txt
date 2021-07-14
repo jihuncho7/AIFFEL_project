@@ -1,6 +1,6 @@
 django~=3.2.5
-ipython
 djangorestframework~=3.11.2
 django-cors-headers~=3.7.0
 django-extensions~=3.1.3
 djangorestframework_simplejwt~=4.7.2
+django-filter~=2.4.0
